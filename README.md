@@ -2,7 +2,7 @@
 esse aqui e meu script e so testa ainda nao tem muitas funções eu ainda vou add ok
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/isllanScriptsxxxxxx/BotHub/LoaderHub.lua/Script999"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/isllanScriptsxxxxxx/BotHub/CreatorHub.lua/Script999"))()
 ```
 
 # Att-
